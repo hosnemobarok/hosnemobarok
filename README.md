@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hosne Mobarok
 
-🎯 **iOS Developer | 4+ Years Experience |**
+🎯 **iOS Developer | 4+yr Experience**
 
 I'm a passionate **iOS Developer** with **4 years** of experience, currently working at **Twinbit Limited**. I specialize in **image & video processing**, **custom camera development**, and **AR face effects**, using **AVFoundation**, **ARKit**, and **Vision**. I also build **custom filters** and **document scanning** features for high-performance iOS apps.
 
