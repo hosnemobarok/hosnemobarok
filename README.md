@@ -10,7 +10,7 @@ I'm a passionate **iOS Developer** with **4 years** of experience, currently wor
 
 **🧪 Tools & Platforms:** `Xcode`, `Git`, `GitHub`, `Jira`, `Postman`, `Figma`, `Zeplin`
 
-**☁️ Cloud & Backend :** `Amazon DynamoDB`  `S3 Bucket`  `RESTful APIs`
+**☁️ Cloud & Backend :** `Amazon DynamoDB`, `S3 Bucket`, `RESTful APIs`
 
 ##
 <p align="center">
