@@ -20,13 +20,9 @@ I'm a passionate **iOS Developer** with **4 years** of experience, currently wor
   <a href="https://leetcode.com/hosne_mobarok/" target="_blank">🧩 LeetCode</a>
 </p>
 
----
-
 ## 📊 My GitHub & LeetCode Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hosnemobarok&show_icons=true&theme=github_dark" width="48%" />
   <img src="https://leetcard.jacoblin.cool/hosne_mobarok?theme=dark&font=Karla&ext=contest" width="48%" />
 </p>
-
----
