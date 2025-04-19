@@ -1,16 +1,14 @@
 # 👋 Hi, I'm Hosne Mobarok
 
-🎯 **iOS Developer | 4+yr Experience**
-
 I'm a passionate **iOS Developer** with **4 years** of experience, currently working at **Twinbit Limited**. I specialize in **image & video processing**, **custom camera development**, and **AR face effects**, using **AVFoundation**, **ARKit**, and **Vision**. I also build **custom filters** and **document scanning** features for high-performance iOS apps.
 
 ## 🛠️ Tech Stack & Tools
 
-**🧰 Frameworks & Libraries (Swift) :** `Image Processing`, `Video Processing`, `Custom Filter`, `AVFoundation`, `ARKit`, `Vision`, `RESTful APIs`, `AWS Amplify`, `AppSync`, `GraphQL`, `Alamofire`, `DynamoDB`, `S3 Bucket`, `AgoraKit`, `ReplayKit`, `PDFKit`, `WebKit`, `Speech`, `Network Extension`, `CoreData`, `CloudKit`, `UIKit`, `Auto Layout`, `Auto Resize`
+**🧰 Frameworks & Libraries (Swift):** `Image Processing`, `Video Processing`, `Custom Filter`, `AVFoundation`, `ARKit`, `Vision`, `RESTful APIs`, `AWS Amplify`, `AppSync`, `GraphQL`, `Alamofire`, `DynamoDB`, `S3 Bucket`, `AgoraKit`, `ReplayKit`, `PDFKit`, `WebKit`, `Speech`, `Network Extension`, `CoreData`, `CloudKit`, `UIKit`, `Auto Layout`, `Auto Resize`
 
-**💻 Languages & Patterns :** `Swift`, `Python`, `OOP`, `MVC`, `Algorithms`, `Data Structures`
+**💻 Languages & Patterns:** `Swift`, `Python`, `OOP`, `MVC`, `Algorithms`, `Data Structures`
 
-**🧪 Tools & Platforms :** `Xcode`, `Git`, `GitHub`, `Jira`, `Postman`, `Figma`, `Zeplin`
+**🧪 Tools & Platforms:** `Xcode`, `Git`, `GitHub`, `Jira`, `Postman`, `Figma`, `Zeplin`
 
 **☁️ Cloud & Backend :** `Amazon DynamoDB`, `S3 Bucket`, `RESTful APIs`
 
